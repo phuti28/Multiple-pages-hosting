@@ -1,0 +1,32 @@
+.homepage-body,
+.contact-body,
+.photo-body {
+    background-color: #eed7a0;
+}
+
+h2 {
+    text-align: center;
+}
+
+.text {
+    font-size: 16px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.homepage-link,
+.photo-link,
+.contact-link {
+    color: green;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 60px;
+    padding: 30px;
